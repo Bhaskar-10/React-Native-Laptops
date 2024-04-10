@@ -59,6 +59,9 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App. :partying_face:
 
+![f593329e-2b9b-4a1f-99ce-a67086f134f4](https://github.com/Bhaskar-10/React-Native-Laptops/assets/116245937/9b7392dd-197b-4356-8277-1c57096c179d)
+
+
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
